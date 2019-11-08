@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.yifengzis.cn/404.html</loc>
+    
+    <lastmod>2019-11-08T08:48:05.971Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://blog.yifengzis.cn/repository/index.html</loc>
     
     <lastmod>2019-11-08T06:39:12.848Z</lastmod>
@@ -19,13 +26,6 @@
     <loc>https://blog.yifengzis.cn/2019/11/08/hello-world/</loc>
     
     <lastmod>2019-11-08T05:01:09.348Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.yifengzis.cn/404.html</loc>
-    
-    <lastmod>2019-11-08T03:32:45.102Z</lastmod>
     
   </url>
   
